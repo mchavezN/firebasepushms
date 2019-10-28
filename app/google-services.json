@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "719768997549",
+    "firebase_url": "https://pushmessage-ce4aa.firebaseio.com",
+    "project_id": "pushmessage-ce4aa",
+    "storage_bucket": "pushmessage-ce4aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719768997549:android:f8114349fb565d7a",
+        "android_client_info": {
+          "package_name": "com.example.firebase_push_ms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719768997549-gkfuqa0hff6ibo718v2a0hr8c5jfv4sl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_push_ms",
+            "certificate_hash": "c93c89a67de4fde1f0a6fe576fc5b11edcce37d0"
+          }
+        },
+        {
+          "client_id": "719768997549-bcf2kqelkbf2ngjv2cqftu81b6g7c890.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyf-EnnNYFcp7d7uBTchIykR13IlKNCM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719768997549-bcf2kqelkbf2ngjv2cqftu81b6g7c890.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
